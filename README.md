@@ -14,8 +14,6 @@ Esse Projeto feito com intuito de fazer uma página com cartas do yu-gi-oh 😎,
 
 [Clique aqui para ir para o site ](https://josealbertodeev.github.io/projeto-clone-yu-gi-oh/) Dá uma olhada! 😉
 
-## 📷 Preview
-
 ## 💻 Versão Web
 
 ![animação 23](https://github.com/user-attachments/assets/f10235a8-41de-411d-85c2-2d9c666c7375)
