@@ -12,7 +12,7 @@ Esse projeto feito do Anime e jogo de carta yu-gi-oh, você conhece ? 🤔
 ## 🚀 Resultados
 Esse Projeto feito com intuito de fazer uma página com cartas do yu-gi-oh 😎, bem legal não é mesmo ?
 
-[Clique aqui para ir para o site ](https://josealbertodeev.github.io/projeto-clone-yu-gi-oh/) Dá uma olhada! 😉
+[Clique aqui para ir para o site ](https://projeto-clone-yu-gi-oh-theta.vercel.app) Dá uma olhada! 😉
 
 ## 💻 Versão Web
 
